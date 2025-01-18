@@ -53,9 +53,8 @@ if choice1 =="left":
         
     else:
         print("You are out 'cause you are attacked by rhino.\n")
-if choice1 == "right":
-    print("Game Over : You fell into the hole.")
-    
 
-    #
+
+else:
+    print("You lose !. Play once more")
     
