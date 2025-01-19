@@ -58,3 +58,7 @@ if choice1 =="left":
 else:
     print("You lose !. Play once more")
     
+print("Bye ")
+
+
+
